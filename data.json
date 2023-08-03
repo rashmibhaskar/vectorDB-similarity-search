@@ -1,0 +1,52 @@
+[
+  {
+    "Genre": "R&B",
+    "Title": "Go Crazy",
+    "Artist": "Chris Brown and Young Thug"
+  },
+  {
+    "Genre": "Pop",
+    "Title": "34+35",
+    "Artist": "Ariana Grande"
+  },
+  {
+    "Genre": "Electro-disco",
+    "Title": "Levitating",
+    "Artist": "Dua Lipa"
+  },
+  {
+    "Genre": "Synth-pop",
+    "Title": "Anyone",
+    "Artist": "Justin Bieber"
+  },
+  {
+    "Genre": "Pop",
+    "Title": "Bang!",
+    "Artist": "AJR"
+  },
+  {
+    "Genre": "Bedroom pop",
+    "Title": "Drivers License",
+    "Artist": "Olivia Rodrigo"
+  },
+  {
+    "Genre": "Country",
+    "Title": "Wasted on You",
+    "Artist": "Morgan Wallen"
+  },
+  {
+    "Genre": "Alternative R&B",
+    "Title": "Good Days",
+    "Artist": "SZA"
+  },
+  {
+    "Genre": "Synth-pop",
+    "Title": "Save Your Tears",
+    "Artist": "The Weeknd"
+  },
+  {
+    "Genre": "Drill",
+    "Title": "Whoopty",
+    "Artist": "CJ"
+  }
+]

@@ -1,0 +1,16 @@
+{
+  "query": "{
+    Get{
+      SimSearch (
+        limit: 3
+        nearText: {
+          concepts: [\"pop\"],
+        }
+      ){
+        genre
+        title
+        artist
+      }
+    }
+  }"
+}
